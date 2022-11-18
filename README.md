@@ -1,2 +1,2 @@
 # wyz-s-dev-blog
-hello
+hello test journal testing
